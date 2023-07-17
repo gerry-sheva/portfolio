@@ -16,7 +16,7 @@ export default function Home() {
         <h2 className='text-6xl font-sans'>Software Developer</h2>
       </section>
       <section className='my-40'>
-        <p className='font-sans font-light text-texasLight text-center text-xl'>A few technologies that I'm good at</p>
+        <p className='font-sans font-light text-texasLight text-center text-xl'>A few technologies that I am good at</p>
         {/* Icons */}
         <div className='flex flex-col mx-16 my-24 py-10 gap-y-10'>
           <div className='text-6xl flex justify-between'>
