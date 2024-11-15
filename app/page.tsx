@@ -3,6 +3,7 @@ import Hero from "@/app/components/Hero";
 import Works from "@/app/components/Works";
 import Intro from "@/app/components/Intro";
 import CTA from "@/app/components/CTA";
+import Projects from "@/app/components/Projects";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
           <Header />
           <Hero />
           <Works />
+          <Projects />
           <Intro />
           <CTA />
       </div>
